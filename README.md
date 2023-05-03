@@ -41,13 +41,13 @@
   <a href="https://www.youtube.com/channel/UCHlZKequeQaN-SjcTQOALyg" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
   </a>
-  <a href="https://www.linkedin.com/in/trungquandev" target="blank">
+  <a href="https://www.linkedin.com/in/hi%E1%BA%BFu-ho%C3%A0ng-85a417234/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
   </a>
-  <a href="https://instagram.com/trungquandev" target="blank">
+  <a href="https://www.instagram.com/hoanghieu03012003/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
   </a>
-  <a href="mailto:trungquandev.official@gmail.com" target="top">
+  <a href="mailto:hoangxuanhieu0301@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
   </a>
 </div>
