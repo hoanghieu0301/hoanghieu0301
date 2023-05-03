@@ -3,6 +3,10 @@
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
+<span><img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=7952B3" alt="C logo" title="C" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++ logo" title="C++" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Java-282C34?logo=Java&logoColor=ECD53F" alt="Java logo" title="Java" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
