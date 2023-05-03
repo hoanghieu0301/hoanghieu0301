@@ -25,7 +25,6 @@
 
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
   <a href="#" title="Hoanghieu0301">
@@ -36,8 +35,6 @@
   </a>
 </div>
 
-<br>
-<h2 align="center">👽 Where to find me 👽</h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
