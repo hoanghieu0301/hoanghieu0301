@@ -41,9 +41,9 @@
     <img width="315" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoanghieu0301&theme=dark&hide_border=false" />
   </a>
 </div>
-
 <br>
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=hoanghieu0301&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <br>
 <!-- https://icons8.com -->
 <div align="center">
