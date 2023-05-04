@@ -38,7 +38,7 @@
 <br>
 <div align=center>
   <a href="#" title="Hoanghieu0301">
-    <img align="right" width="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoanghieu0301&theme=dark&hide_border=false" />
+    <img width="315" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoanghieu0301&theme=dark&hide_border=false" />
   </a>
 </div>
 
