@@ -48,7 +48,7 @@
 <br>
 <div align=center>
   <a href="#" title="Hoanghieu0301">
-    <img width="315" align="center" src="https://github-profile-trophy.vercel.app/?username=hoanghieu0301&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+    <img width="434" align="center" src="https://github-profile-trophy.vercel.app/?username=hoanghieu0301&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
   </a>
 </div>
 <br>
